@@ -1,1 +1,5 @@
 Hello world
+
+var ledPin = 5;
+
+var ledPinA = 12;
